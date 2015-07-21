@@ -7,7 +7,7 @@ end
 
 function 2 ()
 
-cdef 
+cdef
 
 end
 
