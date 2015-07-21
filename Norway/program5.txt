@@ -1,12 +1,8 @@
-function 1()
-
-abcdef
+function 1(
 
 end
 
 function 2 ()
-
-cdefgfhi -- incomplete
 
 end
 
