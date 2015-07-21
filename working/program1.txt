@@ -1,0 +1,6 @@
+Function 1()
+abcd
+end
+Function 2()
+xyz
+end
